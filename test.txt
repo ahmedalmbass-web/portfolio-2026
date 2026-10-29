@@ -1,0 +1,6 @@
+# Production Build Verified
+The portfolio website files for Abdullah Mohammed Ramadan are located in this folder:
+- index.html
+- css/style.css
+- js/script.js
+- README.md
